@@ -97,7 +97,7 @@ sections:
       - type: Label
         label: Market Research & Competitor Analysis
       - type: Label
-        label: C++
+        label: Customer Service & Order Management
       - type: Label
         label: Swift
   - type: DividerSection
