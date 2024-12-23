@@ -135,26 +135,18 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          ### **Why These Skills Matter**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          These skills make me a versatile and valuable asset to any e-commerce
+          business, especially on platforms like Amazon, where managing various
+          aspects of the business is crucial for growth. By using a combination
+          of optimization, analysis, and management, I help you achieve
+          long-term success and build a sustainable online business.
 
-          * fullstack at this startup
 
-          **2015**
 
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
