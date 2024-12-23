@@ -13,11 +13,33 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      **Hi, I’m Naima Jahan – Your Trusted Amazon VA and E-commerce Expert**
+
+      With over 3 years of experience helping businesses succeed on Amazon and
+      other e-commerce platforms, I specialize in creating tailored solutions
+      that help streamline your operations and boost your online sales.
+
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+      My expertise includes product listing optimization, Amazon PPC management,
+      inventory control, market research, and much more. I’m passionate about
+      helping businesses grow and thrive in the competitive world of e-commerce,
+      and I pride myself on providing high-quality, reliable service.
+
+
+      I work closely with each client to develop customized strategies that meet
+      their unique needs, ensuring that every project is a success. If you’re
+      looking to improve your Amazon store or grow your e-commerce business, I’m
+      here to help.
+
+
+      Ready to take your business to the next level? Let’s chat! Contact me
+      today for a consultation.
+
+
+
     media:
       type: ImageBlock
       url: /images/photo_2024-12-23_18-25-31.jpg
