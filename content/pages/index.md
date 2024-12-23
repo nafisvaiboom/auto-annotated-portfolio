@@ -14,12 +14,17 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m Naima jahan, a professional Amazon Virtual Assistant (VA) and
+      e-commerce expert with 3 years of experience helping businesses thrive on
+      Amazon and other online platforms. Whether you’re looking to optimize your
+      product listings, manage your inventory, or drive more sales, I’m here to
+      help you succeed in the competitive world of e-commerce.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      With a deep understanding of Amazon's marketplace and various e-commerce
+      platforms, I offer a wide range of services designed to streamline your
+      business operations. From managing listings and handling customer support
+      to optimizing PPC campaigns and analyzing sales data, I provide end-to-end
+      support to help your business grow.
     styles:
       self:
         height: auto
@@ -47,44 +52,42 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+  - type: MediaGallerySection
+    title: ME
+    subtitle: >-
+      I work closely with my clients to provide tailored solutions that maximize
+      their potential. Some of my services include:"Amazon Product Research and
+      Listing OptimizationAmazon PPC Management and OptimizationInventory
+      Management and Order ProcessingCustomer Support and Account Health
+      ManagementE-commerce Store Management (Shopify, Etsy, eBay, etc.)Market
+      Analysis and Competitor Research
+    images:
+      - type: ImageBlock
+        url: /images/photo_2024-12-23_18-25-31.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-e
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: narrow
         padding:
-          - pt-24
-          - pb-24
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: 'Projects'
+        textAlign: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -98,7 +101,6 @@ sections:
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -130,7 +132,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "get in touch.\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
