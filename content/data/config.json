@@ -22,7 +22,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/sasnations_transparent-.png",
+            "url": "/images/logo bppm.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
