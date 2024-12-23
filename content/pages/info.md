@@ -89,7 +89,7 @@ sections:
       - type: Label
         label: Amazon PPC (Pay-Per-Click) Management
       - type: Label
-        label: Microsoft Office
+        label: Inventory Management
       - type: Label
         label: Next.js
       - type: Label
