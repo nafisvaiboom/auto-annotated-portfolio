@@ -35,12 +35,6 @@
                 "label": "Contact",
                 "url": "rcvtag4@gmail.com",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "contacts": {
