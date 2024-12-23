@@ -93,7 +93,7 @@ sections:
       - type: Label
         label: Amazon Seller Central Account Management
       - type: Label
-        label: Netlify
+        label: 'E-commerce Platform Management (Shopify, Etsy, eBay)'
       - type: Label
         label: Pancakes
       - type: Label
