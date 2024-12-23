@@ -53,7 +53,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Gallery
+    title: ME
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
