@@ -54,7 +54,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: ME
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/photo_2024-12-23_18-25-31.jpg
