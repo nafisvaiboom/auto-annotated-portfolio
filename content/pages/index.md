@@ -54,7 +54,13 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: ME
-    subtitle: ''
+    subtitle: >-
+      I work closely with my clients to provide tailored solutions that maximize
+      their potential. Some of my services include:"Amazon Product Research and
+      Listing OptimizationAmazon PPC Management and OptimizationInventory
+      Management and Order ProcessingCustomer Support and Account Health
+      ManagementE-commerce Store Management (Shopify, Etsy, eBay, etc.)Market
+      Analysis and Competitor Research
     images:
       - type: ImageBlock
         url: /images/photo_2024-12-23_18-25-31.jpg
