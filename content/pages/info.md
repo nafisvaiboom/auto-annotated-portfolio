@@ -87,7 +87,7 @@ sections:
       - type: Label
         label: Amazon Product Listing Optimization
       - type: Label
-        label: React
+        label: Amazon PPC (Pay-Per-Click) Management
       - type: Label
         label: Microsoft Office
       - type: Label
