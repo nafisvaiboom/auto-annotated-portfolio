@@ -99,7 +99,7 @@ sections:
       - type: Label
         label: Customer Service & Order Management
       - type: Label
-        label: Swift
+        label: Sales Analytics & Reporting
   - type: DividerSection
     styles:
       self:
