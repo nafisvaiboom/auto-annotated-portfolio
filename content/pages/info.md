@@ -91,7 +91,7 @@ sections:
       - type: Label
         label: Inventory Management
       - type: Label
-        label: Next.js
+        label: Amazon Seller Central Account Management
       - type: Label
         label: Netlify
       - type: Label
