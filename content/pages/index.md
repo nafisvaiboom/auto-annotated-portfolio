@@ -20,9 +20,11 @@ sections:
       product listings, manage your inventory, or drive more sales, I’m here to
       help you succeed in the competitive world of e-commerce.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      With a deep understanding of Amazon's marketplace and various e-commerce
+      platforms, I offer a wide range of services designed to streamline your
+      business operations. From managing listings and handling customer support
+      to optimizing PPC campaigns and analyzing sales data, I provide end-to-end
+      support to help your business grow.
     styles:
       self:
         height: auto
