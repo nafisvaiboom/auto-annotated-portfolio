@@ -14,8 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m Naima jahan, a professional Amazon Virtual Assistant (VA) and
+      e-commerce expert with 3 years of experience helping businesses thrive on
+      Amazon and other online platforms. Whether you’re looking to optimize your
+      product listings, manage your inventory, or drive more sales, I’m here to
+      help you succeed in the competitive world of e-commerce.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -84,7 +87,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
