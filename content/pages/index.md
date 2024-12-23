@@ -10,6 +10,36 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/photo_2024-12-23_18-25-31.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -52,36 +82,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/photo_2024-12-23_18-25-31.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-    colors: colors-c
-    spacing: 16
-    columns: 2
-    aspectRatio: '1:1'
-    showCaption: false
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
