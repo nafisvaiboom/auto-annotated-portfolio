@@ -95,7 +95,7 @@ sections:
       - type: Label
         label: 'E-commerce Platform Management (Shopify, Etsy, eBay)'
       - type: Label
-        label: Pancakes
+        label: Market Research & Competitor Analysis
       - type: Label
         label: C++
       - type: Label
