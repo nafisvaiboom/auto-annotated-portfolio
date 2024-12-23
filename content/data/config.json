@@ -22,7 +22,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/sasnations-.png",
+            "url": "/images/sasnations_transparent-.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
