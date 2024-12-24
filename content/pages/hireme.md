@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: This in an empty page
-    subtitle: The section subtitle
+    subtitle: ''
     text: >+
       > I offer flexible and transparent pricing based on the work you need. My
       payment structure is **hourly**, ensuring that you only pay for the time
