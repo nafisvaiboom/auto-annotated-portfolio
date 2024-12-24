@@ -19,6 +19,13 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/logo bppm.png",
+            "altText": "",
+            "caption": "",
+            "elementId": ""
         }
     },
     "footer": {
