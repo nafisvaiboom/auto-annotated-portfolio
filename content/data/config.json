@@ -12,16 +12,6 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "hire me ?",
-                "altText": "",
-                "url": "https://sasnations.com/hireme/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [],
