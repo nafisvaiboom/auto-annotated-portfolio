@@ -57,16 +57,7 @@ sections:
       whatsup - +880 1627845693
 
       mail - rcvtag4\@gmail.com
-    actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
