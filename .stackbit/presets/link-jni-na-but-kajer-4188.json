@@ -1,0 +1,27 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "jni na but kajer",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "n"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Info",
+                "altText": null,
+                "url": "/info",
+                "showIcon": null,
+                "icon": null,
+                "iconPosition": null,
+                "elementId": null
+            },
+            "thumbnail": "images/link-jni-na-but-kajer-4188.png"
+        }
+    ]
+}
