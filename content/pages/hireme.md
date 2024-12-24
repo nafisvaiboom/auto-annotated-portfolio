@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
+    title: Pricing
     subtitle: ''
     text: >+
       > I offer flexible and transparent pricing based on the work you need. My
