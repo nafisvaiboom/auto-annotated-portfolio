@@ -7,9 +7,31 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >+
+      > I offer flexible and transparent pricing based on the work you need. My
+      payment structure is **hourly**, ensuring that you only pay for the time
+      and effort dedicated to your project. Below are the details of my hourly
+      rates:"
+
+
+      *   **Hourly Rate**: 30$ per hour
+
+
+      *   **Minimum Hours**: 2 hours
+
+
+      *   **Billing Cycle**: \[Weekly/Monthly/Project Basis]
+
+
+      *   **Payment Methods**: payoneer, Bank Transfer
+
+
+      > "Rates may vary depending on the complexity and scope of the work. For a
+      more precise quote, feel free to contact me with the details of your
+      project."
+
+
+
     elementId: ''
     styles:
       self:
