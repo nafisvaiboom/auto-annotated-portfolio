@@ -13,14 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
+    text: >
       **Hi, I’m Naima Jahan – Your Trusted Amazon VA and E-commerce Expert**
 
       With over 3 years of experience helping businesses succeed on Amazon and
       other e-commerce platforms, I specialize in creating tailored solutions
       that help streamline your operations and boost your online sales.
 
-      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
       My expertise includes product listing optimization, Amazon PPC management,
@@ -37,9 +36,6 @@ sections:
 
       Ready to take your business to the next level? Let’s chat! Contact me
       today for a consultation.
-
-
-
     media:
       type: ImageBlock
       url: /images/photo_2024-12-23_18-25-31.jpg
